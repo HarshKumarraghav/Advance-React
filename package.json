@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshKumarraghav/Advance-React.git"
+  },
+  "keywords": [],
+  "author": "Harsh Raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshKumarraghav/Advance-React/issues"
+  },
+  "homepage": "https://github.com/HarshKumarraghav/Advance-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
