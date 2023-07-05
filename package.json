@@ -2,8 +2,9 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "This is namaste react course",
-  "main": "index.js",
   "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
